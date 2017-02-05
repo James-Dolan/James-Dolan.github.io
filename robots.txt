@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://James-Dolan.github.io/sitemap.xml 
